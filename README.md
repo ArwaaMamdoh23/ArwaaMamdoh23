@@ -8,13 +8,13 @@
 
 ##  About Me
 
-I am an  Computer Science with a focus on Artificial Intelligence, Machine Learning, and full-stack software development.
+I am an AI, Machine Learning & Computer Vision Engineer | Full-Stack Developer | Python & Flutter Developer
 
-I specialize in building complete systems that integrate AI models into real-world applications, including mobile apps and backend services.
+I build end-to-end AI systems by combining Machine Learning, Deep Learning, and software engineering.
 
-My experience spans machine learning, computer vision, and natural language processing, combined with practical software engineering using modern frameworks and tools.
+My work focuses on computer vision and natural language processing, with deployment through backend APIs and mobile applications.
 
-I am currently seeking opportunities in AI engineering or software development roles where I can contribute to real-world impactful systems.
+I develop integrated solutions using Python, Flask, and Flutter, connecting trained models to practical real-world applications.
 
 ---
 

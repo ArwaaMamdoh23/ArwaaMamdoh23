@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I am an  Computer Scienc with a focus on Artificial Intelligence, Machine Learning, and full-stack software development.
 
@@ -15,54 +15,6 @@ I specialize in building complete systems that integrate AI models into real-wor
 My experience spans machine learning, computer vision, and natural language processing, combined with practical software engineering using modern frameworks and tools.
 
 I am currently seeking opportunities in AI engineering or software development roles where I can contribute to real-world impactful systems.
-
----
-
-## 🧠 Technical Skills
-
-### 👩‍💻 Programming
-Python • Dart • SQL • JavaScript
-
-### 🤖 Artificial Intelligence / Machine Learning
-TensorFlow • Keras • OpenCV • Scikit-learn • PyTorch (basic)
-
-### 📱 Mobile Development
-Flutter • REST APIs • Firebase
-
-### 🌐 Backend & Databases
-Flask • FastAPI (basic) • MongoDB • Supabase • REST APIs
-
-### 🛠️ Tools & Platforms
-Git • GitHub • Linux • Postman
-
----
-
-## 📌 Key Projects
-
-### 🎓 Graduation Project
-An AI-powered end-to-end system combining multiple technologies:
-
-- Computer Vision (Pose Estimation using MediaPipe)
-- Natural Language Processing (Grammar evaluation using T5)
-- Deep Learning models (CNN, LSTM)
-- Flutter mobile application for user interaction
-- Flask backend API for model deployment and integration
-- Supabase for storage and analytics
-
-This project demonstrates full system design from AI modeling to deployment and integration.
-
----
-
-### 🤖 Machine Learning Projects
-- Classification and regression models using Scikit-learn
-- Image processing and segmentation using deep learning
-- Model training, evaluation, and optimization workflows
-
----
-
-### 📱 Mobile Applications
-- Flutter applications integrated with backend APIs
-- AI-powered features using RESTful services
 
 ---
 
@@ -78,7 +30,7 @@ This project demonstrates full system design from AI modeling to deployment and 
 
 ---
 
-## 🎯 Career Objective
+##  Career Objective
 
 Seeking opportunities in AI engineering or software development where I can apply my skills in machine learning, backend systems, and mobile applications to build scalable, real-world solutions.
 

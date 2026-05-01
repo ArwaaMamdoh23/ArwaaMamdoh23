@@ -1,6 +1,6 @@
 # Hi, I'm Arwaa Mamdoh 👋
 
-🎓 Engineering Graduate  
+🎓 Computer Science Graduate  
 🤖 AI/ML Engineer | Full-Stack Developer | Flutter Developer  
 🌍 Passionate about building intelligent, end-to-end software systems
 
@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I am an engineering graduate with a focus on Artificial Intelligence, Machine Learning, and full-stack software development.
+I am an  Computer Scienc with a focus on Artificial Intelligence, Machine Learning, and full-stack software development.
 
 I specialize in building complete systems that integrate AI models into real-world applications, including mobile apps and backend services.
 

@@ -18,17 +18,6 @@ I am currently seeking opportunities in AI engineering or software development r
 
 ---
 
-## 📈 GitHub Stats
-
-![Arwaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArwaaMamdoh23&show_icons=true)
-
----
-
-## 📊 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArwaaMamdoh23&layout=compact)
-
----
 
 ##  Career Objective
 

@@ -8,7 +8,7 @@
 
 ##  About Me
 
-I am an  Computer Scienc with a focus on Artificial Intelligence, Machine Learning, and full-stack software development.
+I am an  Computer Science with a focus on Artificial Intelligence, Machine Learning, and full-stack software development.
 
 I specialize in building complete systems that integrate AI models into real-world applications, including mobile apps and backend services.
 

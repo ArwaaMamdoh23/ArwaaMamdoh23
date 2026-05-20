@@ -28,5 +28,6 @@ Seeking opportunities in AI engineering or software development where I can appl
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/arwaa-mamdoh-43a9a1224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-- Email: arwaa.mmdoh@gmail.com
-- Email: arwaa2110478@miuegypt.edu.eg
+- Email : arwaaelbanhawy@gmail.com
+- Email : arwaa.mmdoh@gmail.com
+
